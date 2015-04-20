@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsToPivotal", "JenkinsToPivotal\JenkinsToPivotal.csproj", "{32C12E23-B1CA-4AFC-8C36-BCDB2E8DAFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C12E23-B1CA-4AFC-8C36-BCDB2E8DAFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C12E23-B1CA-4AFC-8C36-BCDB2E8DAFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C12E23-B1CA-4AFC-8C36-BCDB2E8DAFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C12E23-B1CA-4AFC-8C36-BCDB2E8DAFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
